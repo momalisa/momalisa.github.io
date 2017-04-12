@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY st0 "clip-path:url(#SVGID_2_);fill:#DDCCFF;">
+	<!ENTITY st1 "clip-path:url(#SVGID_2_);fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;">
+	<!ENTITY st2 "clip-path:url(#SVGID_2_);fill:none;stroke:#FFFFFF;stroke-miterlimit:10;">
+]>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="151.941px" height="151.941px" viewBox="0 0 151.941 151.941" style="enable-background:new 0 0 151.941 151.941;"
+	 xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="-222.007" y="-344.346" width="595.28" height="841.89"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<path style="&st0;" d="M116.985,151.941H34.956C15.73,151.941,0,136.211,0,116.985V34.956C0,15.73,15.73,0,34.956,0h82.029
+		c19.227,0,34.956,15.73,34.956,34.956v82.029C151.941,136.211,136.211,151.941,116.985,151.941"/>
+	<rect x="70.252" y="47.384" style="&st1;" width="8.117" height="32.278"/>
+	<polygon style="&st1;" points="60.041,57.178 50.011,59.42 55,79.65 65.583,79.65 	"/>
+	<polygon style="&st1;" points="53.036,49.17 50.141,57.158 58.913,55.202 	"/>
+	<path style="&st2;" d="M53.389,58.543c2.169,7.264,3.502,14.031,5.416,21.403"/>
+	<path style="&st2;" d="M56.349,57.643c1.874,7.318,3.652,14.508,5.684,21.909"/>
+	<polygon style="&st1;" points="70.117,45.247 59.381,28.203 89.287,28.203 78.544,45.247 	"/>
+	<polygon style="&st1;" points="99.715,39.618 93.052,49.455 100.489,51.3 	"/>
+	<path style="&st2;" d="M94.792,51.565c-2.486,9.292-5.091,18.554-7.557,27.851"/>
+	<path style="&st2;" d="M97.174,52.518c-2.579,9.024-4.909,18.109-7.271,27.185"/>
+	<polygon style="&st1;" points="100.18,53.515 91.948,51.472 84.24,79.633 93.033,79.633 	"/>
+	<line style="&st2;" x1="65.537" y1="28.458" x2="67.999" y2="35.436"/>
+	<line style="&st2;" x1="70.862" y1="28.404" x2="71.721" y2="33.31"/>
+	<line style="&st2;" x1="75.271" y1="28.622" x2="74.984" y2="33.419"/>
+	<line style="&st2;" x1="80.251" y1="28.622" x2="78.419" y2="36.145"/>
+	<line style="&st2;" x1="84.603" y1="28.567" x2="82.485" y2="33.146"/>
+	<path style="&st1;" d="M49.76,79.685h52.421c1.964,0,3.334,1.167,3.059,2.608l-7.411,38.837c-0.275,1.439-1.641,2.607-3.051,2.607
+		H57.162c-1.409,0-2.775-1.167-3.05-2.607l-7.411-38.837C46.426,80.852,47.796,79.685,49.76,79.685z"/>
+</g>
+</svg>
